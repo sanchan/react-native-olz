@@ -1,6 +1,9 @@
 # react-native-olz
 An OLX's simile application wrote with React Native just in a weekend 🚀
 
+## Video demo
+<a href="https://www.youtube.com/watch?v=W54LIVVXUi8" target="_blank">Video</a>
+
 ## Screenshots
 <div style="display: flex; flex: 1; justify-content: space-between;">
   <img src="https://raw.githubusercontent.com/sanchan/react-native-olz/screenshots/01.PNG" width="30%"/>
